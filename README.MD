@@ -54,3 +54,10 @@ Se puede combinar *italika*, formato __bold__ y el ~~tachado~~ en el mismo texto
 | Nombre | Apellido | Documento |
 |------- | -------- | --------- |
 | Himmer | Gutiérrez | 123456789 |
+
+# Citas
+
+Esto es un texto referente a la cita de abajo.
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con el texto anterior.
