@@ -44,3 +44,8 @@ Se puede combinar *italika*, formato __bold__ y el ~~tachado~~ en el mismo texto
 # Imágenes
 
 ![logo github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+# Code Snippets
+```Json
+{"ejemplo" : "ejemplo de code snippets"}
+```
