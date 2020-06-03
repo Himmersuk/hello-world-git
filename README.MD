@@ -34,3 +34,9 @@ Se puede combinar *italika*, formato __bold__ y el ~~tachado~~ en el mismo texto
 - esto es un item de lista desordenada
 - esto es un item de lista desordenada
 - esto es un item de lista desordenada
+
+# Links
+
+- <a href="https://www.google.com.mx">Link tradicional HTML</a>
+- [Esto es un link en markdown](https://www.google.com.mx)
+- [Esto es un link en markdown al index.html (archivo dentro del proyecto)](index.html)
