@@ -49,3 +49,8 @@ Se puede combinar *italika*, formato __bold__ y el ~~tachado~~ en el mismo texto
 ```Json
 {"ejemplo" : "ejemplo de code snippets"}
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|------- | -------- | --------- |
+| Himmer | Gutiérrez | 123456789 |
