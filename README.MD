@@ -73,3 +73,12 @@ Es otro texto dividido por ateriscos.
 Este es otro texto dividido por guiones bajos.
 
 ___
+
+# Saltos de líneas
+
+Este es el primer párrafo.
+
+Este es el segundo párrafo.
+
+Este es el tercer párrafo.
+- Lista
